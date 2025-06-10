@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+.env
+
+# production
+/dist
+
+# misc
+*.log
+.vscode/
+
+# local env files
+.env.*
+
+# others
+**/*.local
